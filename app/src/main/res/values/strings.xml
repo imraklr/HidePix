@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">HidePix</string>
+
+    <string name="splash_initial_incomplete_name">SecuraPi</string>
+    <string name="splash_final_name_letter">X</string>
+
+    <string name="choose_cover_source">Choose Cover Source</string>
+    <string name="take_picture">Take Picture</string>
+
+    <string name="cover_source_selection_activity_headline">How Image Steganography &amp;
+        Image Steganalysis work?</string>
+    <string name="cover_source_selection_option">Proceed with one of the two options below....</string>
 </resources>
